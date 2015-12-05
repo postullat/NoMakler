@@ -1,4 +1,4 @@
 NoMakler
 ========
 
-J2EE project which filtering sites such as vasmagazin, real-estate ect., and return announcement which was add a real owner of flat
+Spring/Hibernate web project. Goal is to filter sites such as vasmagazin, real-estate ect., and return advertisements which were added by real owner of a flat
